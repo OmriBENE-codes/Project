@@ -1,1 +1,7 @@
-{"kuidhy" : "sdfdsf"}
+{
+    "name": "cc",
+    "os": "windows",
+    "cpu": 2,
+    "ram": "2GB",
+    "disk_usage": 3
+}

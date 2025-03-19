@@ -1,7 +1,0 @@
-{
-    "name": "MyMachine",
-    "os": "ubuntu",
-    "cpu": 4,
-    "ram": "4GB",
-    "disk_usage": 50
-}
